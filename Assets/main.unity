@@ -587,7 +587,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   distance: 10
-  hed: {fileID: 806063646}
+  body: {fileID: 0}
   gforward: {fileID: 0}
 --- !u!1 &1497252320
 GameObject:
@@ -855,7 +855,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   distance: 0
-  hed: {fileID: 1733670196}
+  body: {fileID: 806063646}
   gforward: {fileID: 316141660}
 --- !u!1 &1887626727
 GameObject:
